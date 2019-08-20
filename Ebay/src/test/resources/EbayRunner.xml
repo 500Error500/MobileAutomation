@@ -9,10 +9,10 @@
     <test name="Ebay page" preserve-order="true">
         <classes>
 <!--            <class name="packageEbayTest.EbayHomeTest"/>-->
-<!--            <class name="packageEbayTest.EbayAccountTest"/>-->
+            <class name="packageEbayTest.EbayAccountTest"/>
 <!--            <class name="packageEbayTest.EbayHamburgerTest"/>-->
 <!--            <class name="packageEbayTest.EbayCategoriesTest"/>-->
-            <class name="packageEbayTest.MobileAPI2Test"/>
+<!--            <class name="packageEbayTest.MobileAPI2Test"/>-->
         </classes>
     </test>
 </suite>
